@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.akagoma</groupId>
-  <artifactId>aws-sdk-v2-dynamodb-spring-boot</artifactId>
+  <artifactId>app</artifactId>
   <version>0.0.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>aws-sdk-v2-dynamodb-spring-boot</name>
